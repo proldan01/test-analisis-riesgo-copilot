@@ -5,7 +5,6 @@ numpy
 plotly
 statsmodels
 openpyxl
-scikit-learn
-tensorflow
+scikit-learn==1.8.0
 pmdarima
 apache-echarts
