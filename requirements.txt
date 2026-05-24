@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+statsmodels
+openpyxl
+scikit-learn
+tensorflow
+pmdarima
+apache-echarts
